@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Advance-Training-Class\\.NET\\Assignement-1\\Task7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8E0D62B4-2813-4660-AF26-EC5F758C6345}|Task7.csproj|d:\\advance-training-class\\.net\\assignement-1\\task7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E0D62B4-2813-4660-AF26-EC5F758C6345}|Task7.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E0D62B4-2813-4660-AF26-EC5F758C6345}|Task7.csproj|d:\\advance-training-class\\.net\\assignement-1\\task7\\peakhourrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E0D62B4-2813-4660-AF26-EC5F758C6345}|Task7.csproj|solutionrelative:peakhourrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E0D62B4-2813-4660-AF26-EC5F758C6345}|Task7.csproj|d:\\advance-training-class\\.net\\assignement-1\\task7\\sustainedoutagerule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E0D62B4-2813-4660-AF26-EC5F758C6345}|Task7.csproj|solutionrelative:sustainedoutagerule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E0D62B4-2813-4660-AF26-EC5F758C6345}|Task7.csproj|d:\\advance-training-class\\.net\\assignement-1\\task7\\peakoveruserule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E0D62B4-2813-4660-AF26-EC5F758C6345}|Task7.csproj|solutionrelative:peakoveruserule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E0D62B4-2813-4660-AF26-EC5F758C6345}|Task7.csproj|d:\\advance-training-class\\.net\\assignement-1\\task7\\loadprofileday.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E0D62B4-2813-4660-AF26-EC5F758C6345}|Task7.csproj|solutionrelative:loadprofileday.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E0D62B4-2813-4660-AF26-EC5F758C6345}|Task7.csproj|d:\\advance-training-class\\.net\\assignement-1\\task7\\alarmrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E0D62B4-2813-4660-AF26-EC5F758C6345}|Task7.csproj|solutionrelative:alarmrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PeakHourRule.cs",
+              "DocumentMoniker": "D:\\Advance-Training-Class\\.NET\\Assignement-1\\Task7\\PeakHourRule.cs",
+              "RelativeDocumentMoniker": "PeakHourRule.cs",
+              "ToolTip": "D:\\Advance-Training-Class\\.NET\\Assignement-1\\Task7\\PeakHourRule.cs",
+              "RelativeToolTip": "PeakHourRule.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBoAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T06:52:53.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SustainedOutageRule.cs",
+              "DocumentMoniker": "D:\\Advance-Training-Class\\.NET\\Assignement-1\\Task7\\SustainedOutageRule.cs",
+              "RelativeDocumentMoniker": "SustainedOutageRule.cs",
+              "ToolTip": "D:\\Advance-Training-Class\\.NET\\Assignement-1\\Task7\\SustainedOutageRule.cs",
+              "RelativeToolTip": "SustainedOutageRule.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T06:41:35.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PeakOveruseRule.cs",
+              "DocumentMoniker": "D:\\Advance-Training-Class\\.NET\\Assignement-1\\Task7\\PeakOveruseRule.cs",
+              "RelativeDocumentMoniker": "PeakOveruseRule.cs",
+              "ToolTip": "D:\\Advance-Training-Class\\.NET\\Assignement-1\\Task7\\PeakOveruseRule.cs",
+              "RelativeToolTip": "PeakOveruseRule.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T06:40:36.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoadProfileDay.cs",
+              "DocumentMoniker": "D:\\Advance-Training-Class\\.NET\\Assignement-1\\Task7\\LoadProfileDay.cs",
+              "RelativeDocumentMoniker": "LoadProfileDay.cs",
+              "ToolTip": "D:\\Advance-Training-Class\\.NET\\Assignement-1\\Task7\\LoadProfileDay.cs",
+              "RelativeToolTip": "LoadProfileDay.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwBcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T06:39:42.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AlarmRule.cs",
+              "DocumentMoniker": "D:\\Advance-Training-Class\\.NET\\Assignement-1\\Task7\\AlarmRule.cs",
+              "RelativeDocumentMoniker": "AlarmRule.cs",
+              "ToolTip": "D:\\Advance-Training-Class\\.NET\\Assignement-1\\Task7\\AlarmRule.cs",
+              "RelativeToolTip": "AlarmRule.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T06:38:11.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Advance-Training-Class\\.NET\\Assignement-1\\Task7\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Advance-Training-Class\\.NET\\Assignement-1\\Task7\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T06:05:02.766Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+D:\Advance-Training-Class\.NET\Assignement-1\Task6\bin\Debug\net8.0\Task6.exe
+D:\Advance-Training-Class\.NET\Assignement-1\Task6\bin\Debug\net8.0\Task6.deps.json
+D:\Advance-Training-Class\.NET\Assignement-1\Task6\bin\Debug\net8.0\Task6.runtimeconfig.json
+D:\Advance-Training-Class\.NET\Assignement-1\Task6\bin\Debug\net8.0\Task6.dll
+D:\Advance-Training-Class\.NET\Assignement-1\Task6\bin\Debug\net8.0\Task6.pdb
+D:\Advance-Training-Class\.NET\Assignement-1\Task6\obj\Debug\net8.0\Task6.GeneratedMSBuildEditorConfig.editorconfig
+D:\Advance-Training-Class\.NET\Assignement-1\Task6\obj\Debug\net8.0\Task6.AssemblyInfoInputs.cache
+D:\Advance-Training-Class\.NET\Assignement-1\Task6\obj\Debug\net8.0\Task6.AssemblyInfo.cs
+D:\Advance-Training-Class\.NET\Assignement-1\Task6\obj\Debug\net8.0\Task6.csproj.CoreCompileInputs.cache
+D:\Advance-Training-Class\.NET\Assignement-1\Task6\obj\Debug\net8.0\Task6.dll
+D:\Advance-Training-Class\.NET\Assignement-1\Task6\obj\Debug\net8.0\refint\Task6.dll
+D:\Advance-Training-Class\.NET\Assignement-1\Task6\obj\Debug\net8.0\Task6.pdb
+D:\Advance-Training-Class\.NET\Assignement-1\Task6\obj\Debug\net8.0\Task6.genruntimeconfig.cache
+D:\Advance-Training-Class\.NET\Assignement-1\Task6\obj\Debug\net8.0\ref\Task6.dll
