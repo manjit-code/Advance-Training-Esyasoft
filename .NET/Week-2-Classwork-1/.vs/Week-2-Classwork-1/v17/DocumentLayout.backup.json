@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Advance-Training-Class\\.NET\\Week-2-Classwork-1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{559959DA-1B39-43AF-8765-FAAC08E4E54D}|Week-2-Classwork-1.csproj|d:\\advance-training-class\\.net\\week-2-classwork-1\\model\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{559959DA-1B39-43AF-8765-FAAC08E4E54D}|Week-2-Classwork-1.csproj|solutionrelative:model\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{559959DA-1B39-43AF-8765-FAAC08E4E54D}|Week-2-Classwork-1.csproj|d:\\advance-training-class\\.net\\week-2-classwork-1\\controllers\\productmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{559959DA-1B39-43AF-8765-FAAC08E4E54D}|Week-2-Classwork-1.csproj|solutionrelative:controllers\\productmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{559959DA-1B39-43AF-8765-FAAC08E4E54D}|Week-2-Classwork-1.csproj|d:\\advance-training-class\\.net\\week-2-classwork-1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{559959DA-1B39-43AF-8765-FAAC08E4E54D}|Week-2-Classwork-1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{559959DA-1B39-43AF-8765-FAAC08E4E54D}|Week-2-Classwork-1.csproj|d:\\advance-training-class\\.net\\week-2-classwork-1\\model\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{559959DA-1B39-43AF-8765-FAAC08E4E54D}|Week-2-Classwork-1.csproj|solutionrelative:model\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Advance-Training-Class\\.NET\\Week-2-Classwork-1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Advance-Training-Class\\.NET\\Week-2-Classwork-1\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T07:08:33.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductManager.cs",
+              "DocumentMoniker": "D:\\Advance-Training-Class\\.NET\\Week-2-Classwork-1\\Controllers\\ProductManager.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductManager.cs",
+              "ToolTip": "D:\\Advance-Training-Class\\.NET\\Week-2-Classwork-1\\Controllers\\ProductManager.cs*",
+              "RelativeToolTip": "Controllers\\ProductManager.cs*",
+              "ViewState": "AgIAAHkAAAAAAAAAAAAowI0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T06:26:48.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductDTO.cs",
+              "DocumentMoniker": "D:\\Advance-Training-Class\\.NET\\Week-2-Classwork-1\\Model\\ProductDTO.cs",
+              "RelativeDocumentMoniker": "Model\\ProductDTO.cs",
+              "ToolTip": "D:\\Advance-Training-Class\\.NET\\Week-2-Classwork-1\\Model\\ProductDTO.cs*",
+              "RelativeToolTip": "Model\\ProductDTO.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T06:23:06.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "D:\\Advance-Training-Class\\.NET\\Week-2-Classwork-1\\Model\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "Model\\ProductRepository.cs",
+              "ToolTip": "D:\\Advance-Training-Class\\.NET\\Week-2-Classwork-1\\Model\\ProductRepository.cs",
+              "RelativeToolTip": "Model\\ProductRepository.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwC4AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T06:22:12.656Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

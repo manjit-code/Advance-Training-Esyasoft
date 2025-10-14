@@ -1,0 +1,14 @@
+D:\Advance-Training-Class\.NET\BasicsInterface\bin\Debug\net8.0\BasicsInterface.exe
+D:\Advance-Training-Class\.NET\BasicsInterface\bin\Debug\net8.0\BasicsInterface.deps.json
+D:\Advance-Training-Class\.NET\BasicsInterface\bin\Debug\net8.0\BasicsInterface.runtimeconfig.json
+D:\Advance-Training-Class\.NET\BasicsInterface\bin\Debug\net8.0\BasicsInterface.dll
+D:\Advance-Training-Class\.NET\BasicsInterface\bin\Debug\net8.0\BasicsInterface.pdb
+D:\Advance-Training-Class\.NET\BasicsInterface\obj\Debug\net8.0\BasicsInterface.GeneratedMSBuildEditorConfig.editorconfig
+D:\Advance-Training-Class\.NET\BasicsInterface\obj\Debug\net8.0\BasicsInterface.AssemblyInfoInputs.cache
+D:\Advance-Training-Class\.NET\BasicsInterface\obj\Debug\net8.0\BasicsInterface.AssemblyInfo.cs
+D:\Advance-Training-Class\.NET\BasicsInterface\obj\Debug\net8.0\BasicsInterface.csproj.CoreCompileInputs.cache
+D:\Advance-Training-Class\.NET\BasicsInterface\obj\Debug\net8.0\BasicsInterface.dll
+D:\Advance-Training-Class\.NET\BasicsInterface\obj\Debug\net8.0\refint\BasicsInterface.dll
+D:\Advance-Training-Class\.NET\BasicsInterface\obj\Debug\net8.0\BasicsInterface.pdb
+D:\Advance-Training-Class\.NET\BasicsInterface\obj\Debug\net8.0\BasicsInterface.genruntimeconfig.cache
+D:\Advance-Training-Class\.NET\BasicsInterface\obj\Debug\net8.0\ref\BasicsInterface.dll

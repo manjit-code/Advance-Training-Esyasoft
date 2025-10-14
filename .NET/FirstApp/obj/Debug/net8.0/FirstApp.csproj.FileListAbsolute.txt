@@ -1,0 +1,14 @@
+D:\Advance-Training-Class\.NET\FirstApp\bin\Debug\net8.0\FirstApp.exe
+D:\Advance-Training-Class\.NET\FirstApp\bin\Debug\net8.0\FirstApp.deps.json
+D:\Advance-Training-Class\.NET\FirstApp\bin\Debug\net8.0\FirstApp.runtimeconfig.json
+D:\Advance-Training-Class\.NET\FirstApp\bin\Debug\net8.0\FirstApp.dll
+D:\Advance-Training-Class\.NET\FirstApp\bin\Debug\net8.0\FirstApp.pdb
+D:\Advance-Training-Class\.NET\FirstApp\obj\Debug\net8.0\FirstApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Advance-Training-Class\.NET\FirstApp\obj\Debug\net8.0\FirstApp.AssemblyInfoInputs.cache
+D:\Advance-Training-Class\.NET\FirstApp\obj\Debug\net8.0\FirstApp.AssemblyInfo.cs
+D:\Advance-Training-Class\.NET\FirstApp\obj\Debug\net8.0\FirstApp.csproj.CoreCompileInputs.cache
+D:\Advance-Training-Class\.NET\FirstApp\obj\Debug\net8.0\FirstApp.dll
+D:\Advance-Training-Class\.NET\FirstApp\obj\Debug\net8.0\refint\FirstApp.dll
+D:\Advance-Training-Class\.NET\FirstApp\obj\Debug\net8.0\FirstApp.pdb
+D:\Advance-Training-Class\.NET\FirstApp\obj\Debug\net8.0\FirstApp.genruntimeconfig.cache
+D:\Advance-Training-Class\.NET\FirstApp\obj\Debug\net8.0\ref\FirstApp.dll

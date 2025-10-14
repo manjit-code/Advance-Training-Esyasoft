@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Advance-Training-Class\\.NET\\FirstApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{75B259AF-7FCA-4F6D-AE6A-978DF6F3BF1E}|FirstApp.csproj|d:\\advance-training-class\\.net\\firstapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75B259AF-7FCA-4F6D-AE6A-978DF6F3BF1E}|FirstApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75B259AF-7FCA-4F6D-AE6A-978DF6F3BF1E}|FirstApp.csproj|d:\\advance-training-class\\.net\\firstapp\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75B259AF-7FCA-4F6D-AE6A-978DF6F3BF1E}|FirstApp.csproj|solutionrelative:bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75B259AF-7FCA-4F6D-AE6A-978DF6F3BF1E}|FirstApp.csproj|d:\\advance-training-class\\.net\\firstapp\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75B259AF-7FCA-4F6D-AE6A-978DF6F3BF1E}|FirstApp.csproj|solutionrelative:movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75B259AF-7FCA-4F6D-AE6A-978DF6F3BF1E}|FirstApp.csproj|d:\\advance-training-class\\.net\\firstapp\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75B259AF-7FCA-4F6D-AE6A-978DF6F3BF1E}|FirstApp.csproj|solutionrelative:company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75B259AF-7FCA-4F6D-AE6A-978DF6F3BF1E}|FirstApp.csproj|d:\\advance-training-class\\.net\\firstapp\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75B259AF-7FCA-4F6D-AE6A-978DF6F3BF1E}|FirstApp.csproj|solutionrelative:employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75B259AF-7FCA-4F6D-AE6A-978DF6F3BF1E}|FirstApp.csproj|d:\\advance-training-class\\.net\\firstapp\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75B259AF-7FCA-4F6D-AE6A-978DF6F3BF1E}|FirstApp.csproj|solutionrelative:book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75B259AF-7FCA-4F6D-AE6A-978DF6F3BF1E}|FirstApp.csproj|d:\\advance-training-class\\.net\\firstapp\\human.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75B259AF-7FCA-4F6D-AE6A-978DF6F3BF1E}|FirstApp.csproj|solutionrelative:human.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BankAccount.cs",
+              "DocumentMoniker": "D:\\Advance-Training-Class\\.NET\\FirstApp\\BankAccount.cs",
+              "RelativeDocumentMoniker": "BankAccount.cs",
+              "ToolTip": "D:\\Advance-Training-Class\\.NET\\FirstApp\\BankAccount.cs*",
+              "RelativeToolTip": "BankAccount.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T07:05:19.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\Advance-Training-Class\\.NET\\FirstApp\\Employee.cs",
+              "RelativeDocumentMoniker": "Employee.cs",
+              "ToolTip": "D:\\Advance-Training-Class\\.NET\\FirstApp\\Employee.cs",
+              "RelativeToolTip": "Employee.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBsAAACaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T05:28:46.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Company.cs",
+              "DocumentMoniker": "D:\\Advance-Training-Class\\.NET\\FirstApp\\Company.cs",
+              "RelativeDocumentMoniker": "Company.cs",
+              "ToolTip": "D:\\Advance-Training-Class\\.NET\\FirstApp\\Company.cs",
+              "RelativeToolTip": "Company.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T05:21:14.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "D:\\Advance-Training-Class\\.NET\\FirstApp\\Movie.cs",
+              "RelativeDocumentMoniker": "Movie.cs",
+              "ToolTip": "D:\\Advance-Training-Class\\.NET\\FirstApp\\Movie.cs",
+              "RelativeToolTip": "Movie.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T05:10:19.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Book.cs",
+              "DocumentMoniker": "D:\\Advance-Training-Class\\.NET\\FirstApp\\Book.cs",
+              "RelativeDocumentMoniker": "Book.cs",
+              "ToolTip": "D:\\Advance-Training-Class\\.NET\\FirstApp\\Book.cs",
+              "RelativeToolTip": "Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T04:59:05.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "human.cs",
+              "DocumentMoniker": "D:\\Advance-Training-Class\\.NET\\FirstApp\\human.cs",
+              "RelativeDocumentMoniker": "human.cs",
+              "ToolTip": "D:\\Advance-Training-Class\\.NET\\FirstApp\\human.cs",
+              "RelativeToolTip": "human.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T04:42:29.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Advance-Training-Class\\.NET\\FirstApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Advance-Training-Class\\.NET\\FirstApp\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAAJoBAAAAAAAAAAAAAHMBAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T04:54:48.228Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

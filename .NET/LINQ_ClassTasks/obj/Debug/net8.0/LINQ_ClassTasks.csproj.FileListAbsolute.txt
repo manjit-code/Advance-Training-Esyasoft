@@ -1,0 +1,14 @@
+D:\Advance-Training-Class\.NET\LINQ_ClassTasks\bin\Debug\net8.0\LINQ_ClassTasks.exe
+D:\Advance-Training-Class\.NET\LINQ_ClassTasks\bin\Debug\net8.0\LINQ_ClassTasks.deps.json
+D:\Advance-Training-Class\.NET\LINQ_ClassTasks\bin\Debug\net8.0\LINQ_ClassTasks.runtimeconfig.json
+D:\Advance-Training-Class\.NET\LINQ_ClassTasks\bin\Debug\net8.0\LINQ_ClassTasks.dll
+D:\Advance-Training-Class\.NET\LINQ_ClassTasks\bin\Debug\net8.0\LINQ_ClassTasks.pdb
+D:\Advance-Training-Class\.NET\LINQ_ClassTasks\obj\Debug\net8.0\LINQ_ClassTasks.GeneratedMSBuildEditorConfig.editorconfig
+D:\Advance-Training-Class\.NET\LINQ_ClassTasks\obj\Debug\net8.0\LINQ_ClassTasks.AssemblyInfoInputs.cache
+D:\Advance-Training-Class\.NET\LINQ_ClassTasks\obj\Debug\net8.0\LINQ_ClassTasks.AssemblyInfo.cs
+D:\Advance-Training-Class\.NET\LINQ_ClassTasks\obj\Debug\net8.0\LINQ_ClassTasks.csproj.CoreCompileInputs.cache
+D:\Advance-Training-Class\.NET\LINQ_ClassTasks\obj\Debug\net8.0\LINQ_ClassTasks.dll
+D:\Advance-Training-Class\.NET\LINQ_ClassTasks\obj\Debug\net8.0\refint\LINQ_ClassTasks.dll
+D:\Advance-Training-Class\.NET\LINQ_ClassTasks\obj\Debug\net8.0\LINQ_ClassTasks.pdb
+D:\Advance-Training-Class\.NET\LINQ_ClassTasks\obj\Debug\net8.0\LINQ_ClassTasks.genruntimeconfig.cache
+D:\Advance-Training-Class\.NET\LINQ_ClassTasks\obj\Debug\net8.0\ref\LINQ_ClassTasks.dll
