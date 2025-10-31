@@ -1,0 +1,194 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Advance-Training-Class\\.NET\\College_App_Project\\View_CollegeApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{07AF3482-48B5-478D-A6A9-9CB7132C530A}|View_CollegeApp.csproj|d:\\advance-training-class\\.net\\college_app_project\\view_collegeapp\\views\\course\\course.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{07AF3482-48B5-478D-A6A9-9CB7132C530A}|View_CollegeApp.csproj|solutionrelative:views\\course\\course.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07AF3482-48B5-478D-A6A9-9CB7132C530A}|View_CollegeApp.csproj|d:\\advance-training-class\\.net\\college_app_project\\view_collegeapp\\views\\student\\student.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{07AF3482-48B5-478D-A6A9-9CB7132C530A}|View_CollegeApp.csproj|solutionrelative:views\\student\\student.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07AF3482-48B5-478D-A6A9-9CB7132C530A}|View_CollegeApp.csproj|d:\\advance-training-class\\.net\\college_app_project\\view_collegeapp\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{07AF3482-48B5-478D-A6A9-9CB7132C530A}|View_CollegeApp.csproj|solutionrelative:views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07AF3482-48B5-478D-A6A9-9CB7132C530A}|View_CollegeApp.csproj|d:\\advance-training-class\\.net\\college_app_project\\view_collegeapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{07AF3482-48B5-478D-A6A9-9CB7132C530A}|View_CollegeApp.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07AF3482-48B5-478D-A6A9-9CB7132C530A}|View_CollegeApp.csproj|d:\\advance-training-class\\.net\\college_app_project\\view_collegeapp\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{07AF3482-48B5-478D-A6A9-9CB7132C530A}|View_CollegeApp.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07AF3482-48B5-478D-A6A9-9CB7132C530A}|View_CollegeApp.csproj|d:\\advance-training-class\\.net\\college_app_project\\view_collegeapp\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{07AF3482-48B5-478D-A6A9-9CB7132C530A}|View_CollegeApp.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07AF3482-48B5-478D-A6A9-9CB7132C530A}|View_CollegeApp.csproj|d:\\advance-training-class\\.net\\college_app_project\\view_collegeapp\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07AF3482-48B5-478D-A6A9-9CB7132C530A}|View_CollegeApp.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07AF3482-48B5-478D-A6A9-9CB7132C530A}|View_CollegeApp.csproj|d:\\advance-training-class\\.net\\college_app_project\\view_collegeapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07AF3482-48B5-478D-A6A9-9CB7132C530A}|View_CollegeApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07AF3482-48B5-478D-A6A9-9CB7132C530A}|View_CollegeApp.csproj|d:\\advance-training-class\\.net\\college_app_project\\view_collegeapp\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07AF3482-48B5-478D-A6A9-9CB7132C530A}|View_CollegeApp.csproj|solutionrelative:controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07AF3482-48B5-478D-A6A9-9CB7132C530A}|View_CollegeApp.csproj|d:\\advance-training-class\\.net\\college_app_project\\view_collegeapp\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07AF3482-48B5-478D-A6A9-9CB7132C530A}|View_CollegeApp.csproj|solutionrelative:controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Advance-Training-Class\\.NET\\College_App_Project\\View_CollegeApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Advance-Training-Class\\.NET\\College_App_Project\\View_CollegeApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-30T06:48:00.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\Advance-Training-Class\\.NET\\College_App_Project\\View_CollegeApp\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\Advance-Training-Class\\.NET\\College_App_Project\\View_CollegeApp\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-30T06:47:53.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\Advance-Training-Class\\.NET\\College_App_Project\\View_CollegeApp\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\Advance-Training-Class\\.NET\\College_App_Project\\View_CollegeApp\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-30T06:47:50.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cshtml",
+              "DocumentMoniker": "D:\\Advance-Training-Class\\.NET\\College_App_Project\\View_CollegeApp\\Views\\Student\\Student.cshtml",
+              "RelativeDocumentMoniker": "Views\\Student\\Student.cshtml",
+              "ToolTip": "D:\\Advance-Training-Class\\.NET\\College_App_Project\\View_CollegeApp\\Views\\Student\\Student.cshtml",
+              "RelativeToolTip": "Views\\Student\\Student.cshtml",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAwwCEBAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-30T06:19:47.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Course.cshtml",
+              "DocumentMoniker": "D:\\Advance-Training-Class\\.NET\\College_App_Project\\View_CollegeApp\\Views\\Course\\Course.cshtml",
+              "RelativeDocumentMoniker": "Views\\Course\\Course.cshtml",
+              "ToolTip": "D:\\Advance-Training-Class\\.NET\\College_App_Project\\View_CollegeApp\\Views\\Course\\Course.cshtml",
+              "RelativeToolTip": "Views\\Course\\Course.cshtml",
+              "ViewState": "AgIAAD8BAAAAAAAAAAAswEoBAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-30T06:17:50.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\Advance-Training-Class\\.NET\\College_App_Project\\View_CollegeApp\\Views\\Auth\\Login.cshtml",
+              "RelativeDocumentMoniker": "Views\\Auth\\Login.cshtml",
+              "ToolTip": "D:\\Advance-Training-Class\\.NET\\College_App_Project\\View_CollegeApp\\Views\\Auth\\Login.cshtml",
+              "RelativeToolTip": "Views\\Auth\\Login.cshtml",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAswEMAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-30T06:28:10.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "D:\\Advance-Training-Class\\.NET\\College_App_Project\\View_CollegeApp\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "Controllers\\StudentController.cs",
+              "ToolTip": "D:\\Advance-Training-Class\\.NET\\College_App_Project\\View_CollegeApp\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "Controllers\\StudentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T06:19:06.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CourseController.cs",
+              "DocumentMoniker": "D:\\Advance-Training-Class\\.NET\\College_App_Project\\View_CollegeApp\\Controllers\\CourseController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CourseController.cs",
+              "ToolTip": "D:\\Advance-Training-Class\\.NET\\College_App_Project\\View_CollegeApp\\Controllers\\CourseController.cs",
+              "RelativeToolTip": "Controllers\\CourseController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T06:17:23.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\Advance-Training-Class\\.NET\\College_App_Project\\View_CollegeApp\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
+              "ToolTip": "D:\\Advance-Training-Class\\.NET\\College_App_Project\\View_CollegeApp\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T06:15:44.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Advance-Training-Class\\.NET\\College_App_Project\\View_CollegeApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Advance-Training-Class\\.NET\\College_App_Project\\View_CollegeApp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwBAAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T06:13:24.375Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
